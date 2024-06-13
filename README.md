@@ -3,7 +3,7 @@
 
 # My Education
 - Cybersecurity certificate from ThriveDX program (formerly HackerU)
-- Bachelor of Science in Computer Engineer and Computer Science from Valparaiso University
+- Bachelor of Science in Computer Engineering and Computer Science from Valparaiso University
 
 # Work History
 - Lathe Operateor with Kelsch Machine Corporation
