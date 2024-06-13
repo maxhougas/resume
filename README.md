@@ -6,6 +6,7 @@
 - Bachelor of Science in Computer Engineer and Computer Science from Valparaiso University
 
 # Work History
+- Lathe Operateor with Kelsch Machine Corporation
 - IS Support Technician with TDS
 - JS Developer with TBD
 - 91A with U.S. Army
@@ -15,8 +16,12 @@
 - Floor Associate with 84 Lumber.
 
 # My Projects
+- Remise of VPS @ 74.208.104.107
 - Fullstack web app. Wretten in JS (React and Express). Interacts with MariaDB. Containerized.
-- ArmA server. Written in Bash. Interacts with SteamCMD. Containerized.
+- Sole administrator of VPS @ monkeysinc.net
+-- ArmA server. Written in Bash. Interacts with SteamCMD. Containerized.
+-- Other game servers including Valheim, Minecraft, Factorio, and Terraria.
+-- Other servers including IRC, TeamSpeak, and Apache2.
 - Unnamed AI project. Written in C. Unfinished: indefinite hiatus.
 - Command line RPN Calculator. Written in C.
 - Golf minimization. Written in C. Brute forces a difficult minimization problem.
